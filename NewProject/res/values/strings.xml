@@ -3,5 +3,7 @@
 
     <string name="app_name">NewProject</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="button_text_second_activity">Go To Second Activity</string>
 
 </resources>
